@@ -1,0 +1,8 @@
+streamlit
+altair
+seaborn
+matplotlib.pyplot
+pandas
+numpy
+scipy
+scipy.stats
